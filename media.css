@@ -1,0 +1,24 @@
+@media (max-width: 75em) {
+  html {
+    /* font-size: 45%; */
+    overflow: hidden;
+  }
+  .main-container {
+    /* height: 74.2rem; */
+    margin-left: 0;
+  }
+  .video-logo {
+    margin-left: -1.5rem;
+    margin-top: 0;
+    /* border: 3px solid; */
+  }
+  .search {
+    left: 31rem;
+  }
+  .follower-dollar-3 {
+    height: 0rem;
+  }
+  .text-2 {
+    font-size: 9px;
+  }
+}
